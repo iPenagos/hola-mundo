@@ -1,2 +1,5 @@
 # hola-mundo
-Soy Ivan Penagos, naci en 1993 en Ciudad Victoria, Tamaulipas
+Mi primer repositorio
+
+Autor Ivan Penagos
+Fecha 06/02/2022
